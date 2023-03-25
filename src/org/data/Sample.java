@@ -2,7 +2,7 @@ package org.data;
 
 public class Sample {
 	
-	public void data1() {
+	public void anu() {
 		System.out.println("thi is my page");
 	}
 	public static void main(String[] args) {
