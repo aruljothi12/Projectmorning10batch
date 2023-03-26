@@ -13,4 +13,14 @@ public class Sample {
 		System.out.println("sam........");
 	}
 
+	
+
+	public void aruljothi() {
+		System.out.println("thi is my add arul");
+	}
+		public void addguru() {
+			System.out.println("thi is my name guru");
+
+	}
+	
 }
