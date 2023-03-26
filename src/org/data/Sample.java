@@ -2,8 +2,8 @@ package org.data;
 
 public class Sample {
 	
-	public void addnew() {
-		System.out.println("thi is my page ram");
+	public void aruljothi() {
+		System.out.println("thi is my add arul");
 	}
 	public static void main(String[] args) {
 		System.out.println("the pass");
