@@ -1,6 +1,17 @@
 package org.data;
 
+import java.nio.charset.MalformedInputException;
+
 public class Sample {
+	
+	private void m2() {
+		System.out.println("this is sam");
+	
+
+	}
+	public static void main(String[] args) {
+		System.out.println("sam........");
+	}
 
 	
 
@@ -11,8 +22,5 @@ public class Sample {
 			System.out.println("thi is my name guru");
 
 	}
-	public static void main(String[] args) {
-		System.out.println("the pass");
-	}
-
+	
 }
